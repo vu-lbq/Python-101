@@ -70,32 +70,38 @@ Descriptions and exercises for each session are in Jupyter Notebooks format. The
 
 ### Python Notes
 
-Some notes have been prepared for the course, but is still work in progress: [Course Notes (work in progress)](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Notes/Python_Notes.ipynb)
+Some notes have been prepared for these Jupyter Notebook files, but is still work in progress: [Course Notes (work in progress)](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Notes/Python_Notes.ipynb)
 
-These notes have some content that overlaps with the notes for each session, but is in general a more overall description. It also contains more detailed explanations of some topics that did not fit into the session notes.
+It contains more detailed explanations of some topics that did not fit into the session notes.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Vu - [linkedin](https://www.linkedin.com/in/vu-le-bui-quoc/) - vu.le.bui.quoc@gmail.com
-
-Project Link: [https://github.com/vu-lbq/Python-101](https://github.com/vu-lbq/Python-101)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">
+<a href="https://github.com/vu-lbq" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/vu-le-bui-quoc/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vu.le.bui.quoc@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.facebook.com/vu.buiquoc/" target="_blank">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p> 
 
 <!-- Useful resources -->
 ## Useful resources 
 
-### Git and GitHub
+### GitHub
 
 * [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - Good video explanation from the GitHub Youtube Channel
-* [Ressources to Learn Git](https://docs.github.com/en/get-started/quickstart)
+* [Ressources to Learn Github](https://docs.github.com/en/get-started/quickstart)
 * [Git and GitHub for Beginners](https://readwrite.com/understanding-github-a-journey-for-beginners-part-1/)
 
 ### Python
-
-
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python Cheat Sheets](https://www.pythonsheets.com/)
 * [Top 50 Matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
