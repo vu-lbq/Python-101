@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<br/>
 <div align="center">
   <a>>
     <img src="Media/Python101_Banner.png" alt="Banner">
