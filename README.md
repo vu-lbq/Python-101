@@ -8,27 +8,14 @@
   <h3 align="center">Python 101 - Python for Beginners</h3>
 
 [![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/stargazers)
+<!--[![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/stargazers)
 [![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/vu-lbq/Python-101)](https://github.com/vu-lbq/Python-101/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/graphs/contributors)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) -->
+[![Last Commit](https://img.shields.io/github/last-commit/vu-lbq/Python-101)](https://github.com/vu-lbq/Python-101/commits/)
+<!--[![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/graphs/contributors)-->
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
