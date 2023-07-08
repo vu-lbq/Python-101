@@ -25,6 +25,7 @@
       <a href="#about-this-repository">About This Repository</a>
       <ul>
         <li><a href="#sessions-and-exercises">Sessions and exercises</a></li>
+        <li><a href="#exercise-solutions">Exercise Solutions</a></li>
       </ul>
     </li>
     <li>
@@ -54,12 +55,20 @@ This GitHub repository contains material for a beginner Python course.
 
 Descriptions and exercises for each session are in the format of Jupyter Notebooks. The links below provide convenient ways to view the notebooks for each session.
 
+* [Session 1 - Data Types](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Session%201%20-%20Data%20Types/S01_Data_types.ipynb)
 
+<!--
+* [Session 2 - Data Structures](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Data%20Structures.ipynb)
 
+* [Session 3 - Functions](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%203%20-%20Functions/Session%203%20-%20Functions.ipynb)
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
+### Exercise Solutions
+<!--
+* [Session 1 - Data Types](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Session%201%20-%20Data%20Types/S01_Data_types.ipynb)
+--> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 ## Getting Started
 
