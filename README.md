@@ -54,10 +54,8 @@ This GitHub repository contains material for a beginner Python course.
 Descriptions and exercises for each session are in Jupyter Notebooks format. The links below provide the easy way to view the notebooks.
 
 * [Session 1 - Data Types](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Session%201%20-%20Data%20Types/S01_Data_types.ipynb)
-
+* [Session 2 - Data Structures - List](https://nbviewer.org/github/vu-lbq/Python-101/blob/main/Session%202%20-%20Data%20Structure/S02_Data_structure_List.ipynb)
 <!--
-* [Session 2 - Data Structures](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Data%20Structures.ipynb)
-
 * [Session 3 - Functions](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%203%20-%20Functions/Session%203%20-%20Functions.ipynb)
 -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
